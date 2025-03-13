@@ -53,6 +53,7 @@ Here are some sample images captured and processed from NOAA 15.
 📂 NOAA15-RTLSDR
 │── README.md  # Project overview and setup guide
 │── data/      # Sample images and recordings
+│── images/    # Support material
 ```
 
 ## Contributions
