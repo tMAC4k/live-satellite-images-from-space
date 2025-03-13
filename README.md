@@ -56,8 +56,9 @@ Here are some sample images captured and processed from NOAA 15.
 │── images/    # Support material
 ```
 
-## Contributions
-Feel free to fork this project, submit issues, or contribute improvements!
+## Other Usefull Guides and Videos
+https://www.youtube.com/watch?v=icADyjm3PBE
+https://www.youtube.com/watch?v=HaAprfh9ZtM&t=2s
 
 ## License
 This project is licensed under the MIT License.
