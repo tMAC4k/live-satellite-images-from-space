@@ -30,7 +30,7 @@ Use [n2yo.com](https://www.n2yo.com) to find the next overhead pass of NOAA 15 w
 ## Results
 Here are some sample images captured and processed from NOAA 15.
 
-[![Sample Image](link-to-your-image)](https://github.com/tMAC4k/live-satellite-images-from-space/blob/main/data/avhrr_3_APT_channel_B_corrected.png)
+[![Sample Image]](https://github.com/tMAC4k/live-satellite-images-from-space/blob/main/data/avhrr_3_APT_channel_B_corrected.png)
 
 ## Challenges Faced
 - Tuning the SDR settings for optimal reception
@@ -46,9 +46,7 @@ Here are some sample images captured and processed from NOAA 15.
 ```
 📂 NOAA15-RTLSDR
 │── README.md  # Project overview and setup guide
-│── setup/     # Installation and configuration steps
 │── data/      # Sample images and recordings
-│── scripts/   # Any processing or automation scripts
 ```
 
 ## Contributions
