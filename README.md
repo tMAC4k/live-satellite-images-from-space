@@ -3,6 +3,8 @@
 ## Overview
 This project demonstrates how to capture live weather satellite imagery from NOAA 15 using an RTL-SDR v4. The process involves tracking the satellite, recording signals, decoding the data, and generating images.
 
+![Setup used](images/setup.jpg)
+
 ## Tools & Resources Used
 - **RTL-SDR v4** ([Quickstart Guide](https://www.rtl-sdr.com/qsg))
 - **n2yo.com** – Satellite tracking
@@ -26,6 +28,8 @@ Use [n2yo.com](https://www.n2yo.com) to find the next overhead pass of NOAA 15 w
 - Load the recorded WAV file into **SatDump**
 - Decode the APT signal to extract the image
 - Enhance or process the image if needed
+
+![NOAA 15 Data Transmission](/data/audio_137620000Hz_19-37-26_13-03-2025.mp3)
 
 ## Results
 Here are some sample images captured and processed from NOAA 15.
