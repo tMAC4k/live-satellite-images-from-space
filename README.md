@@ -36,6 +36,8 @@ Here are some sample images captured and processed from NOAA 15.
 
 ![NOAA 15 Sample Image](/data/avhrr_3_APT_channel_B_corrected.png)
 
+![NOAA 15 RAW Image](data/raw_sync.png)
+
 ## Challenges Faced
 - Tuning the SDR settings for optimal reception
 - Dealing with atmospheric interference
