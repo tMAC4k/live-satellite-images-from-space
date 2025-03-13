@@ -18,6 +18,8 @@ Follow the [Quickstart Guide](https://www.rtl-sdr.com/qsg) to install the necess
 ### 2. Track the Satellite
 Use [n2yo.com](https://www.n2yo.com) to find the next overhead pass of NOAA 15 with a good elevation angle.
 
+![Tracking NOAA 15](images/N2YO.png)
+
 ### 3. Record the Signal
 - Open SDR++
 - Tune to the **137.620 MHz** frequency
