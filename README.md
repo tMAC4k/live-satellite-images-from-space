@@ -30,7 +30,7 @@ Use [n2yo.com](https://www.n2yo.com) to find the next overhead pass of NOAA 15 w
 ## Results
 Here are some sample images captured and processed from NOAA 15.
 
-[![Sample Image]](https://github.com/tMAC4k/live-satellite-images-from-space/blob/main/data/avhrr_3_APT_channel_B_corrected.png)
+![NOAA 15 Sample Image](/data/avhrr_3_APT_channel_B_corrected.png)
 
 ## Challenges Faced
 - Tuning the SDR settings for optimal reception
