@@ -29,7 +29,7 @@ Use [n2yo.com](https://www.n2yo.com) to find the next overhead pass of NOAA 15 w
 - Decode the APT signal to extract the image
 - Enhance or process the image if needed
 
-![NOAA 15 Data Transmission](/data/audio_137620000Hz_19-37-26_13-03-2025.mp3)
+[Listen to NOAA 15 Signal](/data/audio_137620000Hz_19-37-26_13-03-2025.mp3)
 
 ## Results
 Here are some sample images captured and processed from NOAA 15.
